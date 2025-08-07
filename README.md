@@ -1,10 +1,9 @@
 ## Hi there 👋
 This page is editting...
 
-<!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
+## Skills 🌱
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cs,cpp,java,python,html,css,javascript,php,figma,linux,unity" />
 
 ## Stats 📈
@@ -16,7 +15,7 @@ This page is editting...
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kinnringo&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kinnringo&theme=gruvbox&utcOffset=9)
 
-## Trophy
+## Trophy 🏆
 ![trophy](https://github-profile-trophy.vercel.app/?username=kinnringo&theme=gruvbox)
 
 <!--
