@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Stats 📈
 ![](https://raw.githubusercontent.com/kinnringo/kinnringo/output/github-contribution-grid-snake.svg)
 
-## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinnringo&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kinnringo&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kinnringo&theme=gruvbox)
