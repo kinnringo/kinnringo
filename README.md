@@ -5,7 +5,7 @@ This page is editting...
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c++,c#,java,html,css,javascript,php,python,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=csharp,cpp,java,python,html,css,javascript,php,figma,linux,unity" />
 <br>
 ## Stats 📈
 ![](https://raw.githubusercontent.com/kinnringo/kinnringo/output/github-contribution-grid-snake.svg)
