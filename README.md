@@ -5,7 +5,7 @@ This page is editting...
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## Skills 🌱
 ### Programming Language
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cs,cpp,java,python,html,css,javascript,php,figma,linux,unity" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cs,cpp,java,python,html,css,javascript,php" />
 
 ### others
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=linux,ubuntu,unity,figma" />
