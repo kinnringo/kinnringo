@@ -7,9 +7,6 @@ This page is editting...
 ### Programming Language
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cs,cpp,java,python,html,css,javascript,php" />
 
-### others
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=linux,ubuntu,unity,figma" />
-
 ## Stats 📈
 ![](https://raw.githubusercontent.com/kinnringo/kinnringo/output/github-contribution-grid-snake.svg)
 
