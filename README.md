@@ -16,9 +16,6 @@ This page is editting...
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kinnringo&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kinnringo&theme=gruvbox&utcOffset=9)
 
-## Trophy 🏆
-![trophy](https://github-profile-trophy.vercel.app/?username=kinnringo&theme=onedark&no-frame=true&no-bg=true&row=2&column=4)
-
 <!--
 **kinnringo/kinnringo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
